@@ -1,0 +1,8 @@
+1. Clone the project from Angular Githun seed
+	- git clone "git seed project url" "Folder Name"
+
+2. Install all the packages in the project
+	- npm install -g webpack webpack-dev-server typescript // install the packages
+
+3. Start the project using npm start
+        - npm start // Start the Project  
